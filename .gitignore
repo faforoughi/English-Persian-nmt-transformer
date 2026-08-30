@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated tokenizer and text files
+*.model
+*.vocab
+*_cleaned.txt
+fa_en_cleaned_data.txt
+
+# Large FastText files
+*.vec
+*.vec.gz
+*.gz
+*.zip
+
+# Model files and checkpoints
+*.h5
+*.keras
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
