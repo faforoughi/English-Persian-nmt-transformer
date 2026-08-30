@@ -5,6 +5,6 @@ scikit-learn
 pandas
 numpy
 matplotlib
-nltk
 rouge-score
 bert-score
+requirements.txt
